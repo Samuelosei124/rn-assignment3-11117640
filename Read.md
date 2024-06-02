@@ -9,11 +9,11 @@ This is a mobile application developed for the DCIT202 course, demonstrating the
 - **App**: Main entry point of the application, sets up navigation.
 
 ## Screenshots
-![alt text](../assets/screenshots1.jpg)
-![alt text](<../assets/screenshot 2 .jpg>)
-![alt text](../assets/screenshot3.jpg)
-![alt text](../assets/screenshot4.jpg)
-![alt text](../assets/screenshot5.jpg)
-![alt text](../assets/screenshot6.jpg)
-![alt text](../assets/screenshot7.jpg)
-![alt text](../assets/screenshot8.jpg)
+![alt text](osei/assets/screenshots1.jpg)
+![alt text](<osei/assets/screenshot 2 .jpg>)
+![alt text](osei/assets/screenshot3.jpg)
+![alt text](osei/assets/screenshot4.jpg)
+![alt text](osei/assets/screenshot5.jpg)
+![alt text](osei/assets/screenshot6.jpg)
+![alt text](osei/assets/screenshot7.jpg)
+![alt text](osei/assets/screenshot8.jpg)
